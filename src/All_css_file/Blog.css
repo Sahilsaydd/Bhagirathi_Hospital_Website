@@ -1,0 +1,32 @@
+.blog_img{
+    height: 200px;
+        background-image: url('/public/Images/post_1.jpeg');
+       background-repeat: no-repeat;
+       background-size: cover;
+}
+
+.blog_title{
+    background-color: white;
+}
+.blog_title h5{
+    color: #3ca6f0;
+}
+
+.blog_title:hover{
+background-color: #3ca6f0;
+h5{
+    color: white;
+}
+
+}
+
+.date-box{
+    width: 20%;
+ position: relative;
+ bottom: -130px;
+ right: -230px;
+    background-color:#002261 ;
+    color: white;
+    border: 1px solid white;
+
+}
